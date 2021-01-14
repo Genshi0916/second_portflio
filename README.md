@@ -1,20 +1,15 @@
 # second_portflio
-github pages でホスティングしているポートフォリオを作り変えることを決意したのでリポジトリを移動させました（2021/1/6）
+僕のポートフォリオだったものです(2)
 
-url : [https://genshi0916.github.io/](https://genshi0916.github.io/)
+今のportfolioのurl : [https://genshi-0916.web.app/](https://genshi-0916.web.app/)
 # Setup
  
 ```bash
 $ git clone https://github.com/Genshi0916/second_portflio.git
-$ cd second_portfolio
+$ cd https://github.com/Genshi0916/second_portflio
 $ npm install
-```
- 
+``` 
 # Start
 
 ```bash
-$ npm run serve
-```
-# Hosting
-
-This page is hosted by gihtub pages.
+$ npm run dev
